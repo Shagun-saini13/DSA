@@ -19,6 +19,5 @@ int main(){
         ans = ans*10 + arr[i];
     }
     cout<<"Reversed Number = "<< ans;
-
     return 0;
 }
