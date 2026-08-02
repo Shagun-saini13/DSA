@@ -4,7 +4,6 @@ int main(){
     int n;
     int ans=0;
 
-
     cout<<"Enter number of digits you want to reverse: ";
     cin>>n;
 
