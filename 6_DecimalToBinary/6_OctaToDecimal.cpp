@@ -16,5 +16,6 @@ int main(){
         ans = rem*mul + ans;
         mul = mul*8;
     }
+    
     cout<<"Decimal form of Octa is: "<<ans;
 }
