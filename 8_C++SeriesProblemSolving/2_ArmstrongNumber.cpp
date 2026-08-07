@@ -10,6 +10,7 @@ int CountDigit(int n){
     return count;
 }
 
+
 int add(int n, int d){
     int sum=0;
     while(n){
