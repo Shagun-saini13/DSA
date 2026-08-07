@@ -11,7 +11,7 @@ char UpperCase(char &c)
 
 }
 int main(){
-    
+
     char alphabet;
     cout<<"Enter LowerCase Alphabet: ";
     cin>>alphabet;
@@ -21,7 +21,7 @@ int main(){
     }
     else{
         cout<<"Enter Valid input";
-    }
+    } 
 
     
 }
